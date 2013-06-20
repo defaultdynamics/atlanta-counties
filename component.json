@@ -1,0 +1,14 @@
+{
+  "name": "atlanta-counties",
+  "repo": "DefaultDynamics/atlanta-counties",
+  "description": "Atlanta list of counties",
+  "version": "0.0.1",
+  "keywords": [
+    "counties",
+    "atlanta"
+  ],
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

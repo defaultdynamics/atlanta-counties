@@ -1,0 +1,10 @@
+{
+  "name": "atlanta-counties",
+  "description": "Atlanta list of counties",
+  "version": "0.0.1",
+  "author": "Jonathan Brumley <cayasso@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/defaultdynamics/atlanta-counties"
+  }
+}
